@@ -57,3 +57,7 @@
 ## Screenshots
 
 _Screenshots of the interface will be added below after upload._
+![Screenshot 2025-07-09 at 12 14 17](https://github.com/user-attachments/assets/ab13988a-cc5e-42c2-8056-6fbd2f34e6a5)
+![Screenshot 2025-07-09 at 12 16 56](https://github.com/user-attachments/assets/36b1a394-28c1-498b-820f-05f27a90b2e8)
+![Screenshot 2025-07-09 at 12 17 02](https://github.com/user-attachments/assets/3fbfd99c-18df-4ecb-98b0-0440bdd404a9)
+
